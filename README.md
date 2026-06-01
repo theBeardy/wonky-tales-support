@@ -2,6 +2,6 @@
 
 To contact WonkyTales for Support, send an email to keatoncbutler@gmail.com
 
-[Privacy Policy](privacypolicy.md)
+[Privacy Policy](PrivacyPolicy.md)
 
-[Terms and Conditions](terms.md)
+[Terms and Conditions](TERMS.md)
